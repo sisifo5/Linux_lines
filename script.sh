@@ -1,7 +1,7 @@
 #! bin/bash
  
 pwd
-cd /home/paranoidandroid/Up/Code
+cd /direccion/donde/se/guardara/el/archivo
 
 mkdir mapeo
 sleep 2
